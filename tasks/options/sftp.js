@@ -12,9 +12,10 @@ module.exports = {
       host: '<%= sshlogininfo.host %>',
       username: '<%= sshlogininfo.username %>',
       password: '<%= sshlogininfo.password %>',
+      dest: '/public_html/',
       createDirectories: true,
       showProgress: true,
-      path:'/'
+      path:'/public_html/'
     }
 }
 

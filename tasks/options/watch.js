@@ -10,7 +10,7 @@ module.exports = {
   //     files: ['css/*.css'],
   //     tasks: ['sftp:uploadCSS']
   // },
-  //   devWatchJS: {
+  // //   devWatchJS: {
   //     files: ['js/*.js'],
   //     tasks: ['sftp:uploadJS']
   // }
